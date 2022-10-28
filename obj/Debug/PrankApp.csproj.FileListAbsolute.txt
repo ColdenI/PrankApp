@@ -1,0 +1,11 @@
+G:\progect c#\PrankApp\bin\Debug\PrankApp.exe.config
+G:\progect c#\PrankApp\bin\Debug\PrankApp.exe
+G:\progect c#\PrankApp\bin\Debug\PrankApp.pdb
+G:\progect c#\PrankApp\obj\Debug\PrankApp.csproj.AssemblyReference.cache
+G:\progect c#\PrankApp\obj\Debug\PrankApp.Form1.resources
+G:\progect c#\PrankApp\obj\Debug\PrankApp.Properties.Resources.resources
+G:\progect c#\PrankApp\obj\Debug\PrankApp.csproj.GenerateResource.cache
+G:\progect c#\PrankApp\obj\Debug\PrankApp.csproj.CoreCompileInputs.cache
+G:\progect c#\PrankApp\obj\Debug\PrankApp.exe
+G:\progect c#\PrankApp\obj\Debug\PrankApp.pdb
+G:\progect c#\PrankApp\obj\Debug\PrankApp.SettingsForm.resources

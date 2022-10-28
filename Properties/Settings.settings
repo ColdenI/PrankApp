@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="PrankApp.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Button1Text" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Да</Value>
+    </Setting>
+    <Setting Name="Button2Text" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Нет</Value>
+    </Setting>
+    <Setting Name="Text1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Хорошая программа?</Value>
+    </Setting>
+    <Setting Name="Text2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Спасибо...</Value>
+    </Setting>
+    <Setting Name="WindowName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">PrankApp</Value>
+    </Setting>
+    <Setting Name="Password" Type="System.String" Scope="User">
+      <Value Profile="(Default)"></Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
